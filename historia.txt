@@ -4,3 +4,5 @@ Felipe tiene 24 años y nacio en floriada valle del cauca / colombia
 hablaremos da su historia.
 
 mide aproximadamente 1.80 metros
+
+hoy es desarrollador de java
